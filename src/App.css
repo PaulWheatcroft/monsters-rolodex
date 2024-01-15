@@ -13,3 +13,6 @@ body {
   );
   text-align: center;
 }
+.app-title {
+  color: aliceblue;
+}
